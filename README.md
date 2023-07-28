@@ -1,5 +1,5 @@
 [![MasterHead](https://tse3.mm.bing.net/th?id=OIP.w_Hwise5fi9orTgRt5ClQAHaDX&pid=Api&P=0&h=220)]
-<h1 align="center">Hi 👋, I'm Ashutos Rajput</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Rajput</h1>
 <h3 align="center">A passionate Flutter developer and data scientists</h3>
 <p align="left"> <img src="https://media.giphy.com/media/fnD9cHHIrYRYk/giphy.gif" /> </p>
 
